@@ -1,6 +1,6 @@
 # alchi-mindmap
 
-An Alchemist's holistic worldview.
+An [Alchemist](pages/personality-type-1.md)'s holistic worldview.
 
 
 

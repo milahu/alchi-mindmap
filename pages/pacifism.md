@@ -23,3 +23,13 @@ Pacifism is the root of all problems.
 
 * [Mass Murder](mass-murder.md) - mainstream, moderate, conservative, short-term, short-sight
 * [Serial Murder](serial-murder.md) - alternative, radical, liberal, long-term, far-sight
+
+
+
+## Synonyms
+
+- Humanism - humans are better than all animals and plants
+- Voluntarism - forced therapy is not allowed
+- Civilization
+- High culture - opposite of: Primitive culture
+- Modernity
