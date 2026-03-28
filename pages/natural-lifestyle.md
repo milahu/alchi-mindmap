@@ -1,4 +1,1 @@
-# Natural Lifestyle
-
-- [Carnivore Diet](carnivore-diet.md)
-- Small states = [tribes](tribalism.md)
+moved to https://github.com/milahu/alchi/blob/master/src/alchi-mindmap/pages/natural-lifestyle.md
